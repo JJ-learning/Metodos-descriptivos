@@ -1,0 +1,6 @@
+a #SUP: 3
+b #SUP: 3
+c #SUP: 4
+f #SUP: 4
+m #SUP: 3
+p #SUP: 3
